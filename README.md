@@ -1,6 +1,7 @@
-### Hi there 👋, My name is Md. Mehedi Hasan
-#### I'm trying to learning programming! 😅
-![I'm trying to learning programming! 😅](https://www.facebook.com/TxxXss)
+##### Hi! I'm Md. Mehedi Hasan
+### I'm trying to learning programming! 😅
+
+## I also like Mathematics 
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
